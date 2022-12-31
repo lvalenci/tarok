@@ -1,0 +1,2 @@
+# Tarok
+This repository contains code for a simple web app for playing tarok [rules linked here](https://www.pagat.com/tarot/sltarok.html). The application will start out by not enforcing any of rules or checks. It will merely deal cards, allow players to select which game to play, use the talon, play in order, and display cards gained by each player(s) (if playing together). Players will have to verbally bid on which game is played, manually select partners, and count and keep track of score.
